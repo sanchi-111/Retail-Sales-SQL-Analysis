@@ -1,15 +1,15 @@
 # Retail Sales Analysis & Data Integrity Audit
 
-## 📌 Project Overview
+# Project Overview
 This project demonstrates an end-to-end data pipeline: transitioning raw retail data into a structured PostgreSQL database for high-level business intelligence. Moving beyond standard analysis, I implemented a **Data Integrity Audit** phase to reconcile calculations and ensure data reliability—a critical requirement for corporate-level financial reporting.
 
-## 🛠️ Tech Stack
-* **Database:** PostgreSQL (via pgAdmin 4)
-* **Scripting:** SQL (VS Code)
-* **Data Source:** MS Excel (CSV)
-* **Key Skills:** Data Cleaning, Integrity Auditing, Exploratory Data Analysis (EDA)
+# Tech Stack
+* *Database:* PostgreSQL (via pgAdmin 4)
+* *Scripting:* SQL (VS Code)
+* *Data Source:* MS Excel (CSV)
+* *Key Skills:* Data Cleaning, Integrity Auditing, Exploratory Data Analysis (EDA)
 
-## 🚀 The Workflow (My Process)
+# The Workflow (My Process)
 
 ### 1. Schema Definition & Ingestion
 * Developed a robust table schema with optimized data types.
@@ -29,10 +29,10 @@ Solved 10+ business-critical problems to uncover retail trends:
 * **Time-Series Analysis:** Identified peak sales periods and high-performing shifts (Morning/Afternoon/Evening).
 * **Customer Segmentation:** Isolated top-spending customers and analyzed unique category shopping behaviors.
 
-## 📂 Files in this Repository
+# 📂 Files in this Repository
 * **`Retail_sales-analysis.sql`**: Complete SQL workflow including setup, cleaning, and final analysis.
 * **`SQL - Retail Sales Analysis_utf.csv`**: The raw source data used for the analysis.
 
 ---
-**Author:** Sanchi Gupta 
+*Author:* Sanchi Gupta 
 *Data Analytics Professional | Raebareli, India* *Specializing in building reliable, audit-ready data solutions.*

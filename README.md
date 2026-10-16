@@ -73,7 +73,7 @@ This project demonstrates an end-to-end data pipeline: transitioning raw retail 
 
 ---
 
-## 🔍 Data Integrity Audit (The "Deloitte" Approach)
+## 🔍 Data Integrity Audit 
 
 Before performing business analysis, a dedicated audit phase was executed to validate data reliability:
 

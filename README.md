@@ -9,7 +9,7 @@
 * [🎯 Project Overview & Objective](#-project-overview--objective)
 * [🛠️ Tech Stack](#️-tech-stack)
 * [🏗️ Data Pipeline & Virtual View Architecture](#️-data-pipeline--virtual-view-architecture)
-* [🔍 Data Integrity Audit (The "Deloitte" Approach)](#-data-integrity-audit-the-deloitte-approach)
+* [🔍 Data Integrity & Quality Audit](#-data-integrity--quality-audit)
 * [📊 Deep Analysis & Core Business Findings](#-deep-analysis--core-business-findings)
 * [📂 Files in this Repository](#-files-in-this-repository)
 * [👤 Author](#-author)
